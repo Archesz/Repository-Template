@@ -15,10 +15,14 @@ Descrição do projeto
 Motivação do projeto
 
 ## Índice
+- [Tecnologias](#Tecnologias)
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
+
+## Tecnologias
+<img src="https://skillicons.dev/icons?i=python&perline=14" />
 
 ## Instalação
 Forneça instruções claras sobre como instalar e configurar o projeto. Isso pode incluir dependências, comandos de instalação, etc.
